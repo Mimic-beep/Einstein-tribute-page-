@@ -1,0 +1,26 @@
+body{
+    background-image: url(./vertical.jpg);
+    background-repeat: repeat;
+    background-size: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+section{
+    background-color: skyblue;
+    border-radius: 50px 50px 50px 50px;
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+img{
+    border-radius: 50px 50px 50px 50px;
+}
+div{
+    background-color: skyblue;
+    border-radius:  50px 50px 50px 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: medium;
+    text-align: center;
+}
